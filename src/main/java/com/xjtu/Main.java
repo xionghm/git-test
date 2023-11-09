@@ -7,5 +7,4 @@ public class Main {
         System.out.println("pull commit");
 
     }
-
 }
